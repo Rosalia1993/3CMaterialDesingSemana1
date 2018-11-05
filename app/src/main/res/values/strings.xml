@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDesing</string>
+    <string name="car1">Disenio agregado</string>
+    <string name="car11">Subir diseño</string>
+    <string name="car2">Diseños diarios</string>
+    <string name="car22">bajar diseño</string>
+</resources>
